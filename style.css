@@ -1,0 +1,45 @@
+.body {
+  background-color: chocolate;
+  text-align: center;
+}
+
+.head {
+  color: blue;
+  margin-bottom: 15px;
+}
+
+.content {
+  margin-bottom: 15px;
+  list-style: radial-gradient();
+}
+
+.adres {
+  text-align: left;
+  margin-right: 50px;
+  float: left;
+  width: 500px;
+}
+
+.contact_us {
+  text-align: left;
+  float: left;
+  width: 500px;
+}
+
+ul,
+ol {
+  display: table;
+  margin: 0 auto;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+}
+
+h2 {
+  color: blueviolet;
+}
+h3 {
+  color: yellow;
+}
